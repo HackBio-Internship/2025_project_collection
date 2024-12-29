@@ -14,5 +14,5 @@ Tasks:
   - Discuss how membrane-targeting drugs could influence the efficacy of combination therapy.
  
 ## Data Source
-* Species-specific activity of antibacterial drug combinations Nature 2018*
+*Species-specific activity of antibacterial drug combinations Nature 2018*
 
