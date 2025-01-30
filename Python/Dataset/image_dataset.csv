@@ -1,0 +1,21 @@
+ID,Category,Image_URL,Description
+1,Animal,https://source.unsplash.com/400x300/?animal,Random animal
+2,Animal,https://source.unsplash.com/400x300/?dog,A cute dog
+3,Animal,https://source.unsplash.com/400x300/?cat,A sleepy cat
+4,Animal,https://source.unsplash.com/400x300/?lion,A roaring lion
+5,Animal,https://source.unsplash.com/400x300/?elephant,A big elephant
+6,Animal,https://source.unsplash.com/400x300/?tiger,A fierce tiger
+7,Animal,https://source.unsplash.com/400x300/?bird,A colorful bird
+8,Plant,https://source.unsplash.com/400x300/?tree,A tall tree
+9,Plant,https://source.unsplash.com/400x300/?flower,A blooming flower
+10,Plant,https://source.unsplash.com/400x300/?grass,Green grass
+11,Plant,https://source.unsplash.com/400x300/?forest,A dense forest
+12,Plant,https://source.unsplash.com/400x300/?cactus,A spiky cactus
+13,Plant,https://source.unsplash.com/400x300/?fern,A lush fern
+14,Plant,https://source.unsplash.com/400x300/?vine,A climbing vine
+15,Pattern,https://source.unsplash.com/400x300/?pattern,A cool pattern
+16,Pattern,https://source.unsplash.com/400x300/?abstract,An abstract shape
+17,Pattern,https://source.unsplash.com/400x300/?geometry,A geometric design
+18,Pattern,https://source.unsplash.com/400x300/?spiral,A spiral pattern
+19,Pattern,https://source.unsplash.com/400x300/?texture,A textured surface
+20,Pattern,https://source.unsplash.com/400x300/?fractal,A fractal pattern
